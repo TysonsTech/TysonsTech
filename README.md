@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TysonsTech (Gregg) www.tysons.tech  
-- 👀 I’m interested in Sailing, biking, spending time with my kids and dogs 
+- 👀 I’m interested in Sailing, biking, building, and spending time with my kids and dogs 
 - 🌱 I’m currently learning js, markup, html, the basics
 - 💞️ I’m looking to collaborate on web3, blockchain, helium, 5G, LoRa
 - 📫 How to reach me -> gregg@tysons.tech -> Discord -> @TysonsTech Twitter -> @TechTysons
